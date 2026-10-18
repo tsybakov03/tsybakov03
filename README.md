@@ -9,7 +9,8 @@ I bridge the gap between traditional exploration geophysics and modern data scie
 - **Telegram:** @tsybakov03
 - **Location:** St. Petersburg, Russia (Open to immediate international relocation & remote roles)
 
-**Looking for:** Junior/Middle Geophysicist • Subsurface Data Analyst • Geomodeling Software Developer
+**Looking for:** PhD Positions / Research Assistantships in Applied Geophysics • Subsurface Machine Learning • Integrated Geomodeling
+
 
 ---
 
@@ -43,9 +44,7 @@ I bridge the gap between traditional exploration geophysics and modern data scie
 * **B.Sc. in Geology (Geophysics Track)** | St. Petersburg State University (SPbU) | 2025
 
 ### Honors & Achievements
-* **Conference Speaker:** Presented on microseismic/geophysical topics at «ENGGEO23» (St. Petersburg, 2023) and «Problems of Earth's Cryosphere» (Pushchino, 2025).
+* **Conference Speaker:** Presented on geophysical topics at «ENGGEO23» (St. Petersburg, 2023) and «Problems of Earth's Cryosphere» (Pushchino, 2025).
 * **Olympiads:** Finalist of SPbU PS(R)S (2026), MGU Lomonosov (2025), and Yandex "I am a Professional" (2023).
 
----
 
-### "Automating the subsurface, one script at a time."
