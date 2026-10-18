@@ -25,13 +25,13 @@ I bridge the gap between traditional exploration geophysics and modern data scie
 ## 🚀 Key Projects & Professional Track
 
 ### 🌍 International Field Operations & Exploration
-* **Field Crew Leader | PLX GEO COMPANY LIMITED (Tanzania, Tabora Region) — 2026**
+* **Field Crew Leader | PLX GEO COMPANY LIMITED (Tanzania, Tabora Region) - 2026**
   Managed a field geophysical crew during a gold/metals exploration campaign. Supervised data acquisition, QA/QC, and field logistics using Induced Polarization (IP), TEM, and gamma-ray spectrometry under extreme field conditions.
-* **Mine Surveyor | SeverAlmaz (ALROSA) — 2024**
+* **Mine Surveyor | SeverAlmaz (ALROSA) - 2024**
   Executed 3D laser scanning, photogrammetry, leveling, and core documentation at the M.V. Lomonosov diamond deposit.
 
 ### 📊 Computational Geoscience & Research Grants
-* **Research Assistant | Institute of Earth Sciences, SPbU (2022 — 2025)**
+* **Research Assistant | Institute of Earth Sciences, SPbU (2022 - 2025)**
   - Developed Python-based data processing workflows for 3D interpretation of PMT-K data (Stages 2 & 3).
   - Participated in permafrost monitoring and geophysical expeditions across the Yamal Peninsula (YNAO), Komi Republic, and the Leningrad Region.
 
