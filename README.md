@@ -32,7 +32,7 @@ I bridge the gap between traditional exploration geophysics and modern data scie
 
 ### 📊 Computational Geoscience & Research Grants
 * **Research Assistant | Institute of Earth Sciences, SPbU (2022 - 2025)**
-  - Developed Python-based data processing workflows for 3D interpretation of PMT-K data (Stages 2 & 3).
+  - Developed Python-based data processing workflows for 3D interpretation of CSRMT data (Stages 2 & 3).
   - Participated in permafrost monitoring and geophysical expeditions across the Yamal Peninsula (YNAO), Komi Republic, and the Leningrad Region.
 
 ---
