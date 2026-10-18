@@ -42,6 +42,7 @@ I bridge the gap between traditional exploration geophysics and modern data scie
 * **M.Sc. in Geophysics and Computer Data Analysis Technologies** | St. Petersburg State University (SPbU)
   * *Thesis:* Structural and lithological heterogeneity of the Nzega Greenstone Belt (Tanzania) based on integrated geophysical modelling and its relationship to gold mineralization.
 * **B.Sc. in Geology (Geophysics Track)** | St. Petersburg State University (SPbU) | 2025
+  * *Thesis:* The frequency dispersion of frozen rock electrical properties according to electromagnetic soundings in the Russian Arctic.
 
 ### Honors & Achievements
 * **Conference Speaker:** Presented on geophysical topics at «ENGGEO23» (St. Petersburg, 2023) and «Problems of Earth's Cryosphere» (Pushchino, 2025).
